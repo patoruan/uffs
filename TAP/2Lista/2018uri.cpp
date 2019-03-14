@@ -12,7 +12,12 @@ int main(){
 	while(scanf("%s", countryName) != EOF){
 		//Gold medal
 		scanf("%s", countryName);
-		
+
+		//Silver medal
+		scanf("%s", countryName);
+
+		//Cooper medal
+		scanf("%s", countryName);
 	}
 
 	return 0;

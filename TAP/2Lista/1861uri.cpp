@@ -10,7 +10,7 @@ using namespace std;
 int main(){
 	char murderer[12], murdered[12];
 	map<string, pair<int, int>> murdererTree; //String == name, int == kill count, int == 1 live || 0 murdered.
-	map<string,pair<int,int>>::iterator it0, it1; // Iterator to search on map.
+	map<string, pair<int,int>>::iterator it0, it1; // Iterator to search on map.
 
 	while(scanf("%s %s", murderer, murdered) != EOF){
 		it0 = murdererTree.find(murderer); it1 = murdererTree.find(murdered);

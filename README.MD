@@ -2,7 +2,7 @@
 
 Repositório criado para armazenar meus trabalhos e materiais de estudo referentes a minha graduação no curso de Bacharel em Ciência da computação na Universidade Federal da Fronteira Sul, campus Chapecó/SC.
 
-Repository created to store my exercicies, work and study materials related to my graduation in the Bachelor's Degree in Computer Science at the Federal University of Southern Frontier, Chapecó campus/SC.
+Repository created to store my exercicies, work and study materials related to my graduation in the Bachelor's Degree in Computer Science at the Federal University of Southern Frontier, Chapecó/SC campus.
 
 ## Built With
 

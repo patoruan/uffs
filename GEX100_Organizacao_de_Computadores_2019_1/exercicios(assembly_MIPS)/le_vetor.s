@@ -5,7 +5,7 @@ txt_entrada:		.asciiz		"\nEntre com o elemento de indice "
 txt_2pontos: 		.asciiz		": "
 txt_maior:			.asciiz		"\nMaior valor: "
 txt_menor:			.asciiz		"\nIndice do menor valor: "
-vetor: 				.space		400   # tamanho máximo 100 inteiros
+vetor: 				.space		412   # tamanho máximo 100 inteiros
 
 		.text
 main:

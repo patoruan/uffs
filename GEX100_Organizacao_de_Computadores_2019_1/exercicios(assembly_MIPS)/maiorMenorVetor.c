@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 int main(){
-	int n, i;
+	int n, i, vetor[103];//vetor[n-2] smaller value, vetor[n-3] smaller value index, vetor[n-1] bigger value
 	printf("\nEntre com o tamanho do vetor: ");
-	scanf("%d", &n);n+=3;
-	int vetor[n];			//vetor[n-2] smaller value, vetor[n-3] smaller value index, vetor[n-1] bigger value
+	scanf("%d", &n);n+=3;				
 	for(i=0; i<(n-3); i++){
 		printf("\nEntre com o elemento do indice %d: ", i);
 		scanf("%d", &vetor[i]);

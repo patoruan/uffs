@@ -20,3 +20,4 @@ Repository created to store my exercicies, work and study materials related to m
 * **Me. Luciano Lores Caimi** - *Study material*
 * **Dra. Raquel Aparecida Pegoraro** - *Study material*
 * **Jean Assmann Ferro** - *Study material*
+* **Dr. Guilherme Dal Bianco** - *Study material*

@@ -15,9 +15,9 @@ Repository created to store my exercicies, work and study materials related to m
 
 ## Authors
 
-* **Ruan Pato** - *Exercises made extraclass* - [Ruan Pato](https://github.com/ruanpato)
+* **Ruan Natan Guerra Pato** - *Exercises made extraclass* - [Ruan Pato](https://github.com/ruanpato)
+* **Dr. Guilherme Dal Bianco** - *Study material*
+* **Jean Assmann Ferro** - *Study material*
 * **Dr. Leandro Miranda Zatesko** - *Example codes, made in class*
 * **Me. Luciano Lores Caimi** - *Study material*
 * **Dra. Raquel Aparecida Pegoraro** - *Study material*
-* **Jean Assmann Ferro** - *Study material*
-* **Dr. Guilherme Dal Bianco** - *Study material*

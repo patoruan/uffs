@@ -10,7 +10,7 @@ int main(){
 	long long int ans=1, i;
 	for(i=92; i <= 1478; i++)
 		if(ePrimo(i))
-			printf("%lld, ", i);
+			printf("%lld*", i);
 	printf("%lld\n", ans);
 	
 	return 0;

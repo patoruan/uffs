@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /* To make this code calculate and display the value correctly it is necessary to use arbitrary precision arithmetic,
  as I am just redoing some codes and I do not remember if the teacher demanded this when I studied the subject a few years ago, 
- I will not do it at this moment*/
+ I will not do it at this moment, but maybe i can in future using (GNU Multi-Precision Library)*/
 
 int ePrimo(long long int x);
 

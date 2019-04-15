@@ -6,7 +6,7 @@ Repository created to store exercises and examples referring to the Algorithms a
 
 ## Info
 
-In this matter was used the scratch for notions for programming logic and after that was used the C language for the other contents and works, but i choose remade some exercises in python.
+In this matter was used the scratch for basic notions for programming logic and after that was used the C language for the other contents and works, but i choose remade some exercises in python.
 
 ## Built With
 

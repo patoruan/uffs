@@ -1,8 +1,6 @@
-# Tópicos especiais em computação XII
+# LISTA 7
 
-Repositório criado para armazenar exercícios e exemplos referentes as aulas de Técnicas avançadas de programação ministradas pelo professor Dr. Leandro Mirando Zatesko.
-
-Repository created to store exercises and examples referring to the advanced programming techniques classes taught by Professor Dr. Leandro Mirando Zatesko.
+Presentation 04/24/2019
 
 ## Built With
 

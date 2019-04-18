@@ -1,7 +1,3 @@
-import mpmath as mp
-mp.mp.dps = 300
-
-
 def ePrimo(x):
     cnt = 0
     for i in range(1, (x+1)):
@@ -13,5 +9,5 @@ def ePrimo(x):
 
 tot = 1
 for y in range(92, 1479):
-    tot *= mp.mpf(str(ePrimo(y)))
+    tot *= ePrimo(y)
 print(tot)

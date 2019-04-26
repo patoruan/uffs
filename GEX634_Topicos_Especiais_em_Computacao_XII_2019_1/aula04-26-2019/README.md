@@ -2,7 +2,7 @@
 
 Algoritmhs today:
 Dijkstra complexity O((n+m) log n) don't work in edges with negative value
-Bellman-Ford complexity O(VxE) 
+Bellman-Ford complexity O(VxE) """O(V²+VE)""" 
 Floyd-Warshall(PD) complexity O(|V|³)
 * Prim with fibonacci heap complexity (O(n+n log(n)))Said
 

@@ -1,6 +1,6 @@
 # Lista 4 - 03/29/2019(mm/dd/yyyy)
 
-* **Backtracking, Greedy(Guloso), Divide and Conquer algorithm's problems:**
+**Backtracking, Greedy(Guloso), Divide and Conquer algorithm's problems:**
 * [URI Online Judge](https://www.urionlinejudge.com.br)
   * **Problems:**
     * [1843](https://www.urionlinejudge.com.br/judge/pt/problems/view/1843) - O Enigma do Príncipe

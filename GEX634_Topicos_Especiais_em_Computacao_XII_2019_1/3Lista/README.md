@@ -1,6 +1,6 @@
 # Lista 3 - 03/27/2019(mm/dd/yyyy)
 
-* **Bit tree, M.U.F(Disjoint Set's ||  Union Find) problems:**
+**Bit tree, M.U.F(Disjoint Set's ||  Union Find) problems:**
 * [URI Online Judge](https://www.urionlinejudge.com.br)
  - URI 1835 1587 1112 1477
   * **Problems:**

@@ -1,6 +1,6 @@
 # Lista 2 - 03/15/2019(mm/dd/yyyy)
 
-* **Set's, map's problems:**
+**Set's, map's problems:**
 * [URI Online Judge](https://www.urionlinejudge.com.br)
   * **Problems:**
     * [1215](https://www.urionlinejudge.com.br/judge/pt/problems/view/1215) - Primeiro Dicionário de Andy

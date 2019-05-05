@@ -1,6 +1,6 @@
 # Lista 1 - 03/08/2019(mm/dd/yyyy)
 
-* **Simply Ad-hoc problems:**
+**Simply Ad-hoc problems:**
 * [URI Online Judge](https://www.urionlinejudge.com.br)
   * **Problems:**
     * [1107](https://www.urionlinejudge.com.br/judge/pt/problems/view/1107) - Escultura à Laser

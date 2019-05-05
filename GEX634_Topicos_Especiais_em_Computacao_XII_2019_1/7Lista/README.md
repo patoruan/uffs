@@ -1,7 +1,6 @@
 # Lista 7
 
 **Grafos** - Apresentação 04/24/2019(mm/dd/yyyy)
-UVA 1174 10369 10147 10600
 * [UVA Online Judge](https://uva.onlinejudge.org/)
   * **Problemas:**
     * [1174](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3615) - IP-TV

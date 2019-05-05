@@ -10,8 +10,8 @@
     
 ## Ferramentas utilizadas
 
-* [gcc](https://gcc.gnu.org/) - GNU gcc and g++ compiler
-* [Python](https://www.python.org/) - Python interpreter
+* [gcc](https://gcc.gnu.org/) - Compiladores GNU gcc e g++ 
+* [Python](https://www.python.org/) - Interpretador Python
 
 ## Autor
 

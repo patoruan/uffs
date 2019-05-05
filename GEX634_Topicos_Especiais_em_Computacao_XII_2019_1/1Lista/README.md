@@ -23,4 +23,4 @@
 
 ## Autor
 
-* **Ruan Pato** - *Exercises made extraclass* - [Ruan Pato](https://github.com/ruanpato)
+* **Ruan Pato** - *Resolução dos problemas* - [Ruan Pato](https://github.com/ruanpato)

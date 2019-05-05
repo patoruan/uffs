@@ -1,15 +1,19 @@
-# LISTA 7
+# Lista 8
 
-* **Presentation 05/03/2019:**
-* URI 1148 1391 1972 1423 1655
+**Dijkstra, Bellman-Ford, Floyd-Warshall** - Apresentação 05/08/2019(mm/dd/yyyy)
+* [URI Online Judge](https://www.urionlinejudge.com.br)
+  * **Problemas:**
+    * [1148](https://www.urionlinejudge.com.br/judge/pt/problems/view/1148) - Países em Guerra
+    * [1391](https://www.urionlinejudge.com.br/judge/pt/problems/view/1391) - Quase Menor Caminho
+    * [1423](https://www.urionlinejudge.com.br/judge/pt/problems/view/1423) - A aventura de Super Mário
+    * [1655](https://www.urionlinejudge.com.br/judge/pt/problems/view/1655) - 106 Milhas Para Chicago
+    * [1972](https://www.urionlinejudge.com.br/judge/pt/problems/view/1972) - Nêmesis
+    
+## Ferramentas utilizadas
 
-## Built With
+* [gcc](https://gcc.gnu.org/) - Compiladores GNU gcc e g++ 
+* [Python](https://www.python.org/) - Interpretador Python
 
-* [gcc](https://gcc.gnu.org/) - GNU gcc and g++ compiler
-* [Python](https://www.python.org/) - Python interpreter
+## Autor
 
-## Authors
-
-* **Ruan Pato** - *Exercises made extraclass* - [Ruan Pato](https://github.com/ruanpato)
-* **Dr. Leandro Miranda Zatesko** - *Example codes, made in class*
-
+* **Ruan Pato** - *Resolução dos problemas* - [Ruan Pato](https://github.com/ruanpato)

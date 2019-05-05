@@ -7,7 +7,7 @@ using namespace std;
 
 typedef long long int lli;
 typedef tuple<double,lli,lli,lli> tllll;
-priority_queue<tllll, vector<tllll>, greater<tllll>> pq, auxPq;// int dia*multa para a priority, int Dia chegada, Dias para treino, multa por dias não treinado em espera
+priority_queue<tllll, vector<tllll>, greater<tllll>> pq;// int dia*multa para a priority, int Dia chegada, Dias para treino, multa por dias não treinado em espera
 
 int main(){
 	tllll aux;

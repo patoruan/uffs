@@ -5,7 +5,10 @@ Algoritmhs today:
 * **Flux** - Min-Cut Max-Flow Theorem
 
 
-* **Dinic's** 
+* **Dinic's**  
+
+Augmenting Path Method  
+Transforamar vértices em arestas para solucionar algusn problemas exemplo u->x == u(in)->u(out)->x  
 
 ## Built With
 

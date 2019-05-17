@@ -5,7 +5,7 @@
   * **Flux** - Min-Cut Max-Flow Theorem
   * **Dinic's**
 
-* **Anotações par busca
+* **Anotações par busca**
   * Augmenting Path Method
   * Transforamar vértices em arestas para solucionar algusn problemas exemplo u->x == u(in)->u(out)->x
   * Lema de Berge

@@ -1,6 +1,6 @@
 # Lista 8
 
-**Dijkstra, Bellman-Ford, Floyd-Warshall** - Apresentação 05/08/2019(mm/dd/yyyy)
+**Dijkstra, Bellman-Ford, Floyd-Warshall** - Apresentação 05/17/2019(mm/dd/yyyy)
 * [URI Online Judge](https://www.urionlinejudge.com.br)
   * **Problemas:**
     * [1148](https://www.urionlinejudge.com.br/judge/pt/problems/view/1148) - Países em Guerra

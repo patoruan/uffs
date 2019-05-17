@@ -1,15 +1,15 @@
 # Aula 04/26/2019
 
 * Algoritmhs today:
- * **Ford-Fulkerson**  - 
- * **Flux** - Min-Cut Max-Flow Theorem
- * **Dinic's**  
+  * **Ford-Fulkerson**
+  * **Flux** - Min-Cut Max-Flow Theorem
+  * **Dinic's**
 
 * **Anotações par busca
- * Augmenting Path Method  
- * Transforamar vértices em arestas para solucionar algusn problemas exemplo u->x == u(in)->u(out)->x  
- * Lema de Berge  
- * Emparelhamento máximo
+  * Augmenting Path Method
+  * Transforamar vértices em arestas para solucionar algusn problemas exemplo u->x == u(in)->u(out)->x
+  * Lema de Berge
+  * Emparelhamento máximo
 
 ## Built With
 

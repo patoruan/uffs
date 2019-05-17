@@ -4,6 +4,7 @@
   * **Ford-Fulkerson**
   * **Flux** - Min-Cut Max-Flow Theorem
   * **Dinic's**
+  * **Hopcroft–Karp**
 
 * **Anotações:**
   * Augmenting Path Method

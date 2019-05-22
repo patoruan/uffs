@@ -14,7 +14,7 @@ O programa deve ser implementado com uma função principal (main) e pelo menos 
 **A função calcula_bombas com o seguinte protótipo:**
 * void calcula_bombas(int * campo[], int num_linhas);
 
-**A função mostra_campo (cada aluno pode definir o protótipo da mesma).**
+**A função mostra_campo (cada aluno pode definir o protótipo da mesma).**  
 Os parâmetros de calcula_bombas devem ser passado nos registradores $a0 e $a1, respectivamente.
 
 **Após inicializar as variáveis de controle o programa deve chamar uma função chamada insere_bombas, com o seguinte protótipo:**

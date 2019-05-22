@@ -68,6 +68,6 @@ O programa deve ser comentado, sendo que estes fazem parte da avaliação.
 
 * **Ruan Pato** - *Exercícios e trabalhos feitos* - [Ruan Pato](https://github.com/ruanpato)
 
--------
+--------  
 
 <a name="footnote1">1</a>: Descrição e Instruções feitas pelo professor Me. Luciano Lores Caimi retiradas do moodle.

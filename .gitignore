@@ -1,0 +1,4 @@
+# Ignores VSCode
+uffs/**/.vscode
+# To let gitignore global
+# git config --global core.excludesfile ~/.gitignore

@@ -4,7 +4,7 @@ Diretório criado para armazenar o trabalho solicitado pelo professor Me. Lucian
 
 ## Descrição ##
 
-[^1] Implemente um programa que permita ao usuário jogar Campo Minado.  
+<sup>[1](#footnote1)</sup> Implemente um programa que permita ao usuário jogar Campo Minado.  
 O programa deve ser implementado utilizando o conjunto de instruções do MIPS e deve ser executado no simulador SPIM ou no simulador MARS.
 
 No início o programa permite ao usuário escolher o tamanho do campo: a) 5x5; b) 7x7; c) 9x9. A matriz (chamada campo) deve possuir internamente tamanho fixo de 9x9 e é composta de números inteiros a qual deve ser inicializada com zeros pelo programador.
@@ -49,7 +49,6 @@ Exemplo:
 Digite uma posição (Linha Coluna):
 ->
 ```
-[^1]: Descrição e Instruções do professor
 
 ## Instruções ##
 Trabalho Individual  
@@ -68,3 +67,7 @@ O programa deve ser comentado, sendo que estes fazem parte da avaliação.
 #### Autores ####
 
 * **Ruan Pato** - *Exercícios e trabalhos feitos* - [Ruan Pato](https://github.com/ruanpato)
+
+-------
+
+<a name="footnote1">1</a>: Descrição e Instruções feitas pelo professor Me. Luciano Lores Caimi retiradas do moodle.

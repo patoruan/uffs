@@ -15,13 +15,13 @@ O programa deve ser implementado com uma função principal (main) e pelo menos 
 * void calcula_bombas(int * campo[], int num_linhas);
 
 **A função mostra_campo (cada aluno pode definir o protótipo da mesma).**  
-Os parâmetros de calcula_bombas devem ser passado nos registradores $a0 e $a1, respectivamente.
+Os parâmetros de calcula_bombas devem ser passado nos registradores \$a0 e \$a1, respectivamente.
 
 **Após inicializar as variáveis de controle o programa deve chamar uma função chamada insere_bombas, com o seguinte protótipo:**
 
 * void insere_bombas(int * campo[], int num_linhas);
 
-A função insere_bombas não precisa ser codificada pelo aluno pois será implementada pelo professsor quando da correção do programa. Os parâmetros de insere_bombas deve ser passado nos registradores $a0 e $a1, respectivamente. Esta função colocará as bombas na matriz campo.
+A função insere_bombas não precisa ser codificada pelo aluno pois será implementada pelo professsor quando da correção do programa. Os parâmetros de insere_bombas deve ser passado nos registradores \$a0 e \$a1, respectivamente. Esta função colocará as bombas na matriz campo.
 
 Por convenção as bombas recebem o valor 9. Assim, na matriz campo as casas que possuirem o valor 9 possuem bomba naquela posição.
 

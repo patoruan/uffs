@@ -16,20 +16,10 @@ int main(){
     insere_bombas(campo, n);                                             // Coloca as bombas no campo
     calcula_bombas(campo, n);                                            // Calcula o valor dos outros campos
     while(1){
-        printf("|");for(int i = 0; i <= n*2-2; i++) printf("-"); printf("|\n"); // Imprime a linha que separa 
-        for(int i = 0, j=0; i < (n*n); i++){
-            printf("|%d", *(campo+i));
-            if(j==n-1){
-                printf("|\n");
-                j=0;
-                printf("|");for(int i = 0; i <= n*2-2; i++) printf("-"); printf("|\n"); // Imprime a linha que separa
-            }else
-            j++;
-        }
- 
+      
         mostra_campo(campoU, n);
         printf("Digite a linha e a coluna(separados por espaço): ");
-        scanf("%d %d", &i, &j);                                          // Pega linha coluna
+        scanf("%d %d", &j, &i);                                          // Pega linha coluna
         if(*(campo+((i-1)+(j-1)*n) ) == 9){                              // Se a posição escolhida tem uma bomba
             *(campoU+((i-1)+(j-1)*n) ) = (*(campo+((i-1)+(j-1)*n) )+48); // +48 para converter int para um número em ASCII
             printf("Você perdeu!!\n");
@@ -44,7 +34,7 @@ int main(){
 }
 
 
-/*Falta arrumar*/
+/*Aparentemente OK*/
 void calcula_bombas(int *campo, int num_linhas){                         // Função que calcula o valor de todos os campos que não são bombas baseados nas bombas adjacentes
     for(int i = 0; i < (num_linhas*num_linhas); i++){
         if(*(campo+i) !=9){                                              // Verifica se o campo não é uma bomba
@@ -52,9 +42,9 @@ void calcula_bombas(int *campo, int num_linhas){                         // Fun�
                 *(campo+i)+=1;
             if(i+num_linhas < num_linhas*num_linhas && *(campo+(i+num_linhas)) == 9)                     // verifica se tem bomba abaixo
                 *(campo+i)+=1;
-            if(i-1 >= 0 && *(campo+(i-1)) == 9)                                                 // Verifica se tem bomba a esquerda
+            if((i+1)%num_linhas!=0 && i-1 >= 0 && *(campo+(i-1)) == 9)                                                 // Verifica se tem bomba a esquerda
                 *(campo+i)+=1; 
-            if(i+1 < num_linhas*num_linhas && *(campo+(i+1)) == 9)                              // Verifica se tem bomba a direita
+            if((i+1)%num_linhas!=num_linhas && i+1 < num_linhas*num_linhas && *(campo+(i+1)) == 9)                              // Verifica se tem bomba a direita
                 *(campo+i)+=1;
             if((i+1)%num_linhas!=num_linhas && i-num_linhas >= 0 && *(campo+(i-num_linhas)+1) == 9) // Se Diagonal superior da direita
                 *(campo+i)+=1;
@@ -76,15 +66,20 @@ void insere_bombas(int *campo, int num_linhas){                          // Fun�
 }
 
 void mostra_campo(char *campoU, int num_linhas){                         // Função que exibe o campo minado
-    for(int i = 1; i <= num_linhas; i++) printf(" %d", i); printf("\n");
-    printf("|");for(int i = 0; i <= num_linhas*2-2; i++) printf("-"); printf("|\n");   // Imprime a linha que separa
+    
+    printf("  ");for(int i = 1; i <= num_linhas; i++) printf(" %d", i); printf("\n");
+    
+    printf("  |");for(int i = 0; i <= num_linhas*2-2; i++) printf("-"); printf("|\n");   // Imprime a linha que separa
     for(int i = 0, j=0, k=1; i < (num_linhas*num_linhas); i++){
+        if(j==0)
+            printf("%d ", k);
         printf("|%c", *(campoU+i));
         if(j==num_linhas-1){
             printf("|\n");
-            j=0;
-            printf("|");for(int i = 0; i <= num_linhas*2-2; i++) printf("-"); printf("|\n"); // Imprime a linha que separa
-        }else
-        j++;
+            j=0;k++;
+            printf("  |");for(int i = 0; i <= num_linhas*2-2; i++) printf("-"); printf("|\n"); // Imprime a linha que separa
+        }else{
+            j++;
+        }
     }
 }

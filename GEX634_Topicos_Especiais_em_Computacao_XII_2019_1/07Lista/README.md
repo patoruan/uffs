@@ -1,4 +1,4 @@
-# Lista 7
+# Lista 07
 
 **Grafos** - Apresentação 04/24/2019(mm/dd/yyyy)
 * [UVA Online Judge](https://uva.onlinejudge.org/)

@@ -1,4 +1,4 @@
-# Lista 1
+# Lista 01
 
 **Ad-hoc** - Apresentação 03/08/2019(mm/dd/yyyy)
 * [URI Online Judge](https://www.urionlinejudge.com.br)

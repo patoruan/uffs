@@ -1,4 +1,4 @@
-# Lista 6
+# Lista 06
 
 **BFS, DFS e Dijkstra** - Apresentação 04/17/2019(mm/dd/yyyy)
 * [URI Online Judge](https://www.urionlinejudge.com.br)

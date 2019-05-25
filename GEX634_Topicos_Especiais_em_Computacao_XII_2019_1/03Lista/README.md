@@ -1,4 +1,4 @@
-# Lista 3
+# Lista 03
 
 **Bit tree, M.U.F(Disjoint Set's ||  Union Find) problems** - Apresentação 03/27/2019(mm/dd/yyyy)
 * [URI Online Judge](https://www.urionlinejudge.com.br)
